@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'akira-jimbo-west';
+  src: local('akira-jimbo-west'), url(./fonts/akira-jimbo-west.otf) format('opentype');
+}
+@font-face {
+  font-family: 'AceSans-Demo';
+  src: local('AceSans-Demo'), url(./fonts/AceSans-Demo.otf) format('opentype');
+}

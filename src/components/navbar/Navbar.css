@@ -1,0 +1,40 @@
+.navbar{
+    background-color: rgb(237, 169, 216);
+    height: 100px;
+    width: 100%;
+    padding: 0px 50px 0px 50px;
+    position: fixed;
+    top:0px;
+    }
+.navbar.blur{
+    opacity: .8;
+    backdrop-filter: blur(9px);
+}
+.navbar ul{
+    height: 100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+
+.navLink{
+    text-decoration: none;
+    color: black;
+    font-size: 32px;
+    font-family: AceSans-Demo;
+}
+
+.titleLink{
+    font-family: akira-jimbo-west;
+    font-size: 48px;
+    display:flex;
+    height: 100%;
+    align-items: center;
+}
+
+.navbar img{
+    height: 160px;
+    position: relative;
+    top: 20px;
+}
