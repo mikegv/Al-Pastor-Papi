@@ -7,5 +7,16 @@
 .App {
   text-align: center;
   width: 100vw;
-  height: 400vh;
 }
+
+.sectionTitle{
+  font-family: 'AceSans-Demo';
+  font-size: 64px;
+  font-weight: 400;
+}
+
+/* .museoModerno{
+  color:white;
+  font-size: 30px;
+  font-family: 'MuseoModerno', cursive;
+} */
