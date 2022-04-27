@@ -6,6 +6,9 @@
     width: 300px;
     height: 300px;
 }
+.sectionTitle{
+    margin-bottom: 50px;
+}
 
 .gallery .legend{
     display:none;

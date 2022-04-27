@@ -1,4 +1,6 @@
 .hero{
-    background: url('../../images/hero-image.svg');
+    background: url('../../images/papi.png');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 450px;
 }

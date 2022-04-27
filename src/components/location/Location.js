@@ -8,7 +8,7 @@ const Location = () => {
             <h1 className='sectionTitle'>Location</h1>
             
             <div  style={{width: '1116px',margin: 'auto'}}>
-                <a href='#'>
+                <a href='https://www.instagram.com/alpastorpapi415/?hl=en' target='_blank'>
             <img src={MapImage} alt="map sf" />
                 <p className='locationContainer'>We are always moving, check our instagram for new locations!</p>
                 </a>

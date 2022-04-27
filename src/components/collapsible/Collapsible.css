@@ -7,6 +7,7 @@
     align-self: flex-end;
 }
 .openButton{
+    margin: 20px;
     border: none;
     border-radius: 25px;
     width: 35px;
@@ -34,3 +35,6 @@ box-shadow: inset 2.33333px -2.33333px 2.33333px rgba(149, 149, 149, 0.1), inset
     height: fit-content;
 }
 
+.showCollapsableArea div{
+    margin-bottom: 50px;
+}
