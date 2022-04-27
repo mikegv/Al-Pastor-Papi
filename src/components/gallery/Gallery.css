@@ -26,3 +26,25 @@
 .thumbs-wrapper{
     display: none;
 }
+
+.carousel  button, ::before{
+    opacity: 0;
+  }
+
+  .carousel .control-prev{
+      opacity: 1 !important;
+      height: 20px;
+      transform: translateY(150px);
+      background-image: url('../../images/arrow-left.svg') !important;
+      background-repeat: no-repeat !important;
+  }
+  .carousel .control-next{
+    opacity: 1 !important;
+    height: 20px;
+    transform: translateY(150px);
+
+    background-image: url('../../images/arrow-right.svg') !important;
+    background-repeat: no-repeat !important;
+    background-position: right center !important;
+  }
+ 
