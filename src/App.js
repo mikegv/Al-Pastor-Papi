@@ -4,6 +4,7 @@ import Hero from './components/hero/Hero';
 import Gallery from './components/gallery/Gallery';
 import Location from './components/location/Location';
 import Menu from './components/menu/Menu';
+import News from './components/news/News';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Gallery />
       <Location />
       <Menu />
+      <News />
     </div>
   );
 }
