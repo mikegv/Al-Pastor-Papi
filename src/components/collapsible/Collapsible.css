@@ -1,0 +1,36 @@
+.collapsibleSection{
+  
+}
+.topOfCollapsible{
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+.openButton{
+    border: none;
+    border-radius: 25px;
+    width: 35px;
+height: 35px;
+    background: rgba(17, 169, 164, 0.5);
+box-shadow: inset 2.33333px -2.33333px 2.33333px rgba(149, 149, 149, 0.1), inset -2.33333px 2.33333px 2.33333px rgba(255, 255, 255, 0.1);
+}
+.openButton:hover{
+    cursor:pointer;
+}
+.openButton img{
+    transform: translateY(2px);
+}
+.closeButton img{
+    transform: rotate(180deg);
+}
+.collapsableArea{
+    display: none;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.collapsableArea.showCollapsableArea{
+    display: flex;
+    height: fit-content;
+}
+
