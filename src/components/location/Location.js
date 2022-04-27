@@ -1,7 +1,6 @@
 import React from 'react';
 import './Location.css'
 import MapImage from '../../images/map.svg'
-import LocationInstaImage from '../../images/location-instagram.svg'
 
 const Location = () => {
     return (
@@ -10,7 +9,7 @@ const Location = () => {
             
             <div  style={{width: '1116px',margin: 'auto'}}>
                 <a href='#'>
-            <img src={LocationInstaImage} alt="map sf" style={{width: '1116px'}} />
+            <img src={MapImage} alt="map sf" />
                 <p className='locationContainer'>We are always moving, check our instagram for new locations!</p>
                 </a>
                 </div>
