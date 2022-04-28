@@ -1,6 +1,10 @@
 .hero{
-    background: url('../../images/papi.png');
+    /* background: url('../../images/papi.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
+    overflow:hidden;
     height: 450px;
+}
+.hero img{
+    width: 100%;
 }

@@ -11,30 +11,20 @@ const Gallery = () => {
         <div className='gallery' id="gallery">
             <h1 className='sectionTitle'>Gallery</h1>
             <Carousel infiniteLoop={true} width={'1130px'}>
-            <div className='papislide'>
-                    <img src={GalleryImage1}/>
-                    <p className="legend">Legend 1</p>
-                    <img src={GalleryImage2} />
-                    <p className="legend">Legend 2</p>
-                    <img src={GalleryImage3} />
-                    <p className="legend">Legend 2</p>
-                   
+                <div className='papislide'>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
                 </div>
                 <div className='papislide'>
-                    <img src={GalleryImage1}/>
-                    <p className="legend">Legend 1</p>
-                    <img src={GalleryImage2} />
-                    <p className="legend">Legend 2</p>
-                    <img src={GalleryImage3} />
-                    <p className="legend">Legend 2</p>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
                 </div>
                 <div className='papislide'>
-                    <img src={GalleryImage1}/>
-                    <p className="legend">Legend 1</p>
-                    <img src={GalleryImage2} />
-                    <p className="legend">Legend 2</p>
-                    <img src={GalleryImage3} />
-                    <p className="legend">Legend 2</p>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
+                    <div className='slideImage'><img src={GalleryImage1} /></div>
                 </div>
             </Carousel>
         </div>
