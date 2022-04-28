@@ -1,14 +1,19 @@
 .navbar{
-    background-color: rgb(237, 169, 216);
+    background-color: rgba(198, 75, 160, .5);
+    backdrop-filter: blur(106px);
+    -webkit-backdrop-filter: blur(106px);
     height: 100px;
     width: 100%;
     padding: 0px 50px 0px 50px;
     position: fixed;
     top:0px;
+    z-index: 12;
     }
-.navbar.blur{
-    opacity: .8;
-    backdrop-filter: blur(9px);
+
+.backgroundBar{
+    background-color: white;
+    height: 100px;
+    width: 100%;
 }
 .navbar ul{
     height: 100%;
