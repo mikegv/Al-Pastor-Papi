@@ -5,6 +5,7 @@ import Gallery from './components/gallery/Gallery';
 import Location from './components/location/Location';
 import Menu from './components/menu/Menu';
 import News from './components/news/News';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Location />
       <Menu />
       <News />
+      <Footer />
     </div>
   );
 }
