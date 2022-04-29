@@ -8,8 +8,8 @@ const Footer = () => {
         <div className='footer'>
             <p>Email INFO@ALPASTORPAPI.COM FOR CATERING INQUIRIES </p>
             <div>
-            <img src={InstaLogo} alt='Instagram logo link' />
-            <img src={TwitterLogo} alt='Twitter logo link' />
+            <a href='https://www.instagram.com/alpastorpapi415/'><img src={InstaLogo} alt='Instagram logo link' /></a>
+            <a href='https://twitter.com/AlPastorPapi415'><img src={TwitterLogo} alt='Twitter logo link' /></a>
             </div>
         </div>
     );
