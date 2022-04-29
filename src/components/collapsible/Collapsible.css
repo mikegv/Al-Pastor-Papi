@@ -35,6 +35,6 @@ box-shadow: inset 2.33333px -2.33333px 2.33333px rgba(149, 149, 149, 0.1), inset
     height: fit-content;
 }
 
-.showCollapsableArea div{
+.showCollapsableArea > div{
     margin-bottom: 50px;
 }

@@ -31,8 +31,16 @@ font-weight: 600;
 font-size: 16px;
 line-height: 120%;
 }
-.newsstorycard > img {
-    width: 100%;
-    height: auto;
+.newsstorycard img {
+    width: auto;
+    height: 100%;
+}
+.imageContainer{
+    overflow: hidden;
+    height: 250px;
     border-radius: 10px 10px 0px 0px;
+}
+.newsstorycard p a{
+    text-decoration: none;
+    color: black;
 }
