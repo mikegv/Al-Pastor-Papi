@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Al-Pastor-Papi/static/css/main.fbad303f.css",
+    "main.js": "/Al-Pastor-Papi/static/js/main.58f4e180.js",
+    "static/js/787.5162f361.chunk.js": "/Al-Pastor-Papi/static/js/787.5162f361.chunk.js",
+    "static/media/menu.svg": "/Al-Pastor-Papi/static/media/menu.2ea8c153279695c6b13800faec7542f4.svg",
+    "static/media/gallery-image-4.svg": "/Al-Pastor-Papi/static/media/gallery-image-4.90a1e07c315a185825f9366ca32b890d.svg",
+    "static/media/gallery-image-2.svg": "/Al-Pastor-Papi/static/media/gallery-image-2.736586df100904c00b656b9fd46c893c.svg",
+    "static/media/gallery-image-1.svg": "/Al-Pastor-Papi/static/media/gallery-image-1.f9ffc75315d0d6bcbfcc3f329dec05b0.svg",
+    "static/media/gallery-image-3.svg": "/Al-Pastor-Papi/static/media/gallery-image-3.378a3dfc90e3e7adbc8e3260e0b90e68.svg",
+    "static/media/papi2.png": "/Al-Pastor-Papi/static/media/papi2.e524724f217bd0673e93.png",
+    "static/media/map.svg": "/Al-Pastor-Papi/static/media/map.e261150ae7aeb62db0667b63884c1d26.svg",
+    "static/media/news-image-2.svg": "/Al-Pastor-Papi/static/media/news-image-2.5e1188dd3663c634a58ca4e93b889b25.svg",
+    "static/media/news-image-3r.png": "/Al-Pastor-Papi/static/media/news-image-3r.6fdf6e2a7f923fbe6943.png",
+    "static/media/akira-jimbo-west.otf": "/Al-Pastor-Papi/static/media/akira-jimbo-west.a04dbf56a0dc6f8fb51e.otf",
+    "static/media/logo.svg": "/Al-Pastor-Papi/static/media/logo.0334dc2a2b3cccdeba4567ab6da4ab87.svg",
+    "static/media/news-image-1.svg": "/Al-Pastor-Papi/static/media/news-image-1.64445f5a39cfbc486918b7a172109a3c.svg",
+    "static/media/AceSans-Demo.otf": "/Al-Pastor-Papi/static/media/AceSans-Demo.b492f3157abdeed3163d.otf",
+    "static/media/instagram-logo.svg": "/Al-Pastor-Papi/static/media/instagram-logo.ba98b494400615f25f4295ff47e3b480.svg",
+    "static/media/twitter-logo.svg": "/Al-Pastor-Papi/static/media/twitter-logo.3f885ea1234e596159e07687ac876b65.svg",
+    "index.html": "/Al-Pastor-Papi/index.html",
+    "static/media/arrow-left.svg": "/Al-Pastor-Papi/static/media/arrow-left.a3ad452ff58ffea16579.svg",
+    "static/media/arrow-down.svg": "/Al-Pastor-Papi/static/media/arrow-down.eaa298eae632f5e7186db7b55261f41e.svg",
+    "static/media/arrow-right.svg": "/Al-Pastor-Papi/static/media/arrow-right.f94e6e3943712ee78aa2.svg",
+    "main.fbad303f.css.map": "/Al-Pastor-Papi/static/css/main.fbad303f.css.map",
+    "main.58f4e180.js.map": "/Al-Pastor-Papi/static/js/main.58f4e180.js.map",
+    "787.5162f361.chunk.js.map": "/Al-Pastor-Papi/static/js/787.5162f361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbad303f.css",
+    "static/js/main.58f4e180.js"
+  ]
+}
