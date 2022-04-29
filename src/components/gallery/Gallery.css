@@ -71,7 +71,7 @@
   }
   
  .previous *{
-     display:none;
+     /* display:none; */
  }
 .dot{
     background: rgba(128, 128, 128, 1) !important;
